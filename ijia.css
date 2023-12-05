@@ -1,0 +1,92 @@
+
+.batons li
+{
+    border: solid 1px;
+    display: inline;
+   font-weight: bold;
+   background-color: orange;
+   text-align: center;
+   list-style: none;
+   border: 3px;
+   padding: 8px;
+   width: 670px;
+   margin: 30px;
+}
+
+#paragraf 
+{
+    font-weight: bold;
+    font-size: 30px;
+}
+.batons li a
+{
+    text-decoration: none;
+}
+
+.batons li:hover
+{
+   background-color: black;
+   color:orange;
+}
+
+.Guma a 
+{
+    border: 1px solid;
+    text-decoration: none;
+    color: black;
+    background-color: orange;
+    padding:4px;
+}
+
+.Guma a:hover 
+{
+    color:white;
+    background-color: black;
+    padding:4px;
+}
+
+#djole
+{
+    
+    font-size:20px;
+    font-weight: bold;
+}
+
+button
+{
+  background-color: orange;
+  color:black;
+  margin-top: 6px;
+}
+
+button:hover
+{
+  background-color: black;
+  color: orange;
+}
+
+label 
+{   
+    font-weight: bold;
+}
+
+input
+{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#Adresa 
+{
+    font-weight: bold;
+}
+
+#Broj 
+{
+    font-weight: bold;
+}
+
+#Information 
+{
+    font-weight: bold;
+}
